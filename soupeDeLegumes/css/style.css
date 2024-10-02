@@ -1,0 +1,54 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.soupe{
+    height: 100vh;
+    display: flex;
+}
+
+.carottes{
+    background-image:url("../carottes.png");
+    flex:1;
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.courgettes{
+    background-image: url("../courgettes.png");
+    flex:1;
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.navets{
+    background-image: url("../navets.png");
+    flex:1;
+    height: 100%;
+    background-repeat : no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.oignons{
+    background-image: url("../oignons.png");
+    flex:1;
+    height: 100%;
+    background-repeat : no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.patates{
+    background-image: url("../patates.png");
+    flex:1;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
